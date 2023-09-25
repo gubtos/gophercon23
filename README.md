@@ -1,6 +1,9 @@
 # Por que criar bibliotecas internas?
 Talk apresentada na [Gophercon23 Brasil](https://gopherconbr.org) no dia 22/09/2023.
 
+
+[Slides da apresentação](https://github.com/gubtos/gophercon23/blob/main/assets/slides.pdf)
+
 ## Exemplos mostrados durante a apresentação
 
 [Biblioteca simples](https://github.com/gubtos/golib): Exemplo básico de uma biblioteca (implementa função que valida palíndromo).
